@@ -139,23 +139,24 @@
 .footer-section{
     display: flex;
     background-color: black;
+    border-radius: 5px;
 }
 .future-section{
     width: 50%;
-    color: #0000ff;
+    color: #00b7cf;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 60px;
     line-height: 25px;
 }
 .subscribe-section{
     width: 50%;
     color: #FFFF;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 60px;
     line-height: 25px;
 }
 .subscribe-section h2{
-    color: #0000ff;
+    color: #00b7cf;
     margin: 8px;
 }
 .email{
@@ -167,8 +168,8 @@
    margin-left: 250px ;
 }
 .btn-primary-3{
-    background-color:#0000ff;
-    color: black;
+    background-color:#00b7cf;
+    color: #FFFF;
     border: 0px;
     border-radius: 8px;
     height: 30px;
