@@ -17,16 +17,14 @@
 }
 .header-title{
     margin: 300px 850px 25px 100px;
-    color: #FFFF;
-    line-height: 40px;
     color: black;
+    line-height: 40px;
  
 }
 .header-para{
     margin: 0px 850px 25px 100px;
     font-weight: 550;
     font-size: 18px;
-    color: #ffff;
     line-height: 28px;
     color: black;
 }
