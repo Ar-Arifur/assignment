@@ -127,13 +127,54 @@
 /* This is second button */
 .btn-primary-2{
     height: 40px;
+    width: 100px;
     margin-top: 10px;
     margin-left: 60px;
-    color: #ffff;
+    color: black;
     font-weight: 700;
     background-color: #0482d6;
     border: 0px;
     border-radius: 6px;
+}
+.footer-section{
+    display: flex;
+    background-color: black;
+}
+.future-section{
+    width: 50%;
+    color: #0000ff;
+    text-align: center;
+    padding-top: 100px;
+    line-height: 25px;
+}
+.subscribe-section{
+    width: 50%;
+    color: #FFFF;
+    text-align: center;
+    padding-top: 100px;
+    line-height: 25px;
+}
+.subscribe-section h2{
+    color: #0000ff;
+    margin: 8px;
+}
+.email{
+    border: 0px;
+    border-radius: 5px;
+    height: 25px;
+    margin-bottom: 8px;
+    display: block;
+   margin-left: 250px ;
+}
+.btn-primary-3{
+    background-color:#0000ff;
+    color: black;
+    border: 0px;
+    border-radius: 8px;
+    height: 30px;
+    width: 120px;
+    font-size: 17px;
+    font-weight: 600;
 }
 
 
